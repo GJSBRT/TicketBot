@@ -8,6 +8,7 @@
 ## Commands
 
 ```!ticket-setup <#channelname for ticket message>```
+
 ```!close``` to close a ticket
 
 ## Installation
